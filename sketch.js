@@ -24,10 +24,6 @@ var box38,box39,box40,box41,box42;
 
 var slingy;
 
-function preload() {
-yellowImage=loadImage("yelllwoq.png");   
-}
-
 function setup(){
     var canvas = createCanvas(1500,400);
     engine = Engine.create();
