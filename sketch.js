@@ -86,7 +86,7 @@ box41=new Box2(1165,140,30,50);
 
 box42=new Box1(1150,90,30,50);
 
-slingy=new Slingshot(polygon.body,{x:725,y:200});
+slingshot=new Slingshot(polygon.body,{x:725,y:200});
 }
 
 function draw(){
