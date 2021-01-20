@@ -97,7 +97,7 @@ ground1.display();
 ground2.display();
 
 polygon.display();
-slingy.display();
+slingshot.display();
 
 box1.display();
 box2.display();
@@ -148,9 +148,7 @@ box38.display();
 box39.display();
 box40.display();
 box41.display();
-box42.display();
- 
-slingshot.display();   
+box42.display();   
 
 }
 
