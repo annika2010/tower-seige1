@@ -150,6 +150,8 @@ box40.display();
 box41.display();
 box42.display();
  
+slingshot.display();   
+
 }
 
 function mouseDragged(){
